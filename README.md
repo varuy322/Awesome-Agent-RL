@@ -96,7 +96,7 @@ From Anthropic: Systems where LLMs dynamically direct their own processes and to
 
 What is the next cycle of AI development? Agents? Reasoners? Actual multimodality?
 
-It's time to call it: the model is the product. [Vintage Data Blog](The Model is the Product)
+It's time to call it: the model is the product. [Vintage Data Blog](https://vintagedata.org/blog/posts/model-is-the-product)
 
 ### Farewell to Agentic Workflow?
 
