@@ -4,7 +4,8 @@
     <b> Curated collection of papers and resources on unlocking the potential of Agents through Reinforcement Learning. </b>
 </p>
 
-## Content
+
+## 📖 Content
 
 - [Papers](#papers)
   - [Agent-R1](#agent-r1)
@@ -23,7 +24,7 @@
 
 
 
-## Papers
+## 📄 Papers
 
 *Excellent Agent Framework based on Reinforcement Learning*
 
@@ -67,9 +68,25 @@ RAGEN: Training Agents by Reinforcing Reasoning
 >
 > [paper coming soon](), [code](https://github.com/ZihanWang314/RAGEN)
 
+### ReSearch
+
+ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
+
+> [!NOTE]
+>
+> [paper comming soon](), [code](https://github.com/Agent-RL/ReSearch)
+
+### DeepRetrieval
+
+DeepRetrieval - Hacking Search Engines & Retrievers with LLM + RL
+
+> [!NOTE]
+>
+> [paper](https://arxiv.org/abs/2503.00223), [code](https://github.com/pat-jj/DeepRetrieval)
 
 
-## Resources
+
+## 🎁 Resources
 
 *Tutorial on Reinforcement Learning, Agent, Agent Model*
 
@@ -118,4 +135,32 @@ Chain-of-Action: From Agent Workflow to Agent Models
 > [!TIP]
 >
 > [WeChat Official Account](https://mp.weixin.qq.com/s/aAW7gD_5gQ_DyhRLCfMjDw)
+
+
+
+## 📚 Citation
+
+**Agent-R1**
+
+```bibtex
+@misc{Agent-R1,
+  author       = {Jie Ouyang, Ruiran Yan, Yucong Luo, Zirui Liu, Shuo Yu},
+  title        = {Training Powerful LLM Agents with End-to-End Reinforcement Learning},
+  year         = {2025},
+  organization = {GitHub},
+  url          = {https://github.com/0russwest0/Agent-R1},
+}
+```
+
+**Awesome Agent Reinforcement Learning**
+
+```bibtex
+@misc{Awesome-Agent-RL
+  author       = {Jie Ouyang, Daoyu Wang, Shuo Yu},
+  title        = {Awesome Agent Reinforcement Learning},
+  year         = {2025},
+  organization = {GitHub},
+  url          = {https://github.com/0russwest0/Awesome-Agent-RL},
+}
+```
 
