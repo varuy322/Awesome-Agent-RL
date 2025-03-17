@@ -3,6 +3,7 @@
 <p align="center">
     <b> Curated collection of papers and resources on unlocking the potential of Agents through Reinforcement Learning. </b>
 </p>
+
 ## Content
 
 - [Papers](#papers)
