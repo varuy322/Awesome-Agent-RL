@@ -8,7 +8,6 @@
 ## 📖 Content
 
 - [Papers](#papers)
-  - [Agent-R1](#agent-r1)
   - [R1-Searcher](#r1-searcher)
   - [Search-R1](#search-r1)
   - [AutoCoA](#autocoa)
@@ -24,19 +23,13 @@
 
 ---
 
-
+If you would like to train your own agent with reinforement learning, take a look at: <b><a href=https://github.com/0russwest0/Agent-R1>Agent-R1</a></b> 😄
 
 ## 📄 Papers
 
 > [!NOTE]
 >
-> *Excellent Agent Framework based on Reinforcement Learning*
-
-### Agent-R1
-
-Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning. [[code](https://github.com/0russwest0/Agent-R1)]
-
-*Jie Ouyang, Ruiran Yan, Yucong Luo, Zirui Liu, Shuo Yu, Daoyu Wang*
+> *The specific focus on end-to-end training (rather than single-step optimization)*
 
 ### R1-Searcher
 
@@ -78,7 +71,7 @@ ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning. [[
 
 > [!TIP]
 >
-> *Tutorial and Prospect on Reinforcement Learning, Agent, Agent Model*
+> *Tutorials and Prospects on Reinforcement Learning for Agents*
 
 ### Reinforcement Learning for Agents
 
@@ -105,32 +98,4 @@ Reasoning Model + Action Chain Learning = Agent Model  [Wechat Official Account]
 ### Chain-of-Action
 
 Chain-of-Action: From Agent Workflow to Agent Models  [WeChat Official Account](https://mp.weixin.qq.com/s/aAW7gD_5gQ_DyhRLCfMjDw)
-
-
-
-## 📚 Citation
-
-**Agent-R1**
-
-```bibtex
-@misc{Agent-R1,
-  author       = {Jie Ouyang, Ruiran Yan, Yucong Luo, Zirui Liu, Shuo Yu},
-  title        = {Training Powerful LLM Agents with End-to-End Reinforcement Learning},
-  year         = {2025},
-  organization = {GitHub},
-  url          = {https://github.com/0russwest0/Agent-R1},
-}
-```
-
-**Awesome Agent Reinforcement Learning**
-
-```bibtex
-@misc{Awesome-Agent-RL
-  author       = {Jie Ouyang, Daoyu Wang, Shuo Yu},
-  title        = {Awesome Agent Reinforcement Learning},
-  year         = {2025},
-  organization = {GitHub},
-  url          = {https://github.com/0russwest0/Awesome-Agent-RL},
-}
-```
 
