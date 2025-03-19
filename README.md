@@ -1,101 +1,64 @@
-<h1 align="center">Awesome Agent Reinforcement Learning </h1>
+<div align="center">
 
-<p align="center">
-    <b> Curated collection of papers and resources on unlocking the potential of Agents through Reinforcement Learning. </b>
-</p>
+# Awesome Agent Reinforcement Learning
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## 📖 Content
+**Curated collection of papers and resources on unlocking the potential of Agents through Reinforcement Learning**
 
-- [Papers](#papers)
-  - [R1-Searcher](#r1-searcher)
-  - [Search-R1](#search-r1)
-  - [AutoCoA](#autocoa)
-  - [RAGEN](#ragen)
-  - [ReSearch](#research)
-  - [DeepRetrieval](#deepretrieval)
-- [Resources](#resources)
-  - [Reinforcement Learning for Agents](#reinforcement-learning-for-agents)
-  - [Actual LLM Agents are Coming](#actual-llm-agents-are-coming)
-  - [The Model is the Product](#the-model-is-the-product)
-  - [Farewell to Agentic Wolkflow](#farewell-to-agentic-workflow)
-  - [Chain-of-Action](#chain-of-action)
+</div>
 
----
-
-If you would like to train your own agent with reinforement learning, take a look at: <b><a href=https://github.com/0russwest0/Agent-R1>Agent-R1</a></b> 😄
+If you would like to train your own agent with reinforcement learning, take a look at: <b><a href=https://github.com/0russwest0/Agent-R1>Agent-R1</a></b> 😄
 
 ## 📄 Papers
 
-> [!NOTE]
->
-> *The specific focus on end-to-end training (rather than single-step optimization)*
+> **Note:** The specific focus on end-to-end training (rather than single-step optimization)
 
 ### R1-Searcher
-
-[R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning.](https://arxiv.org/abs/2503.05592) [[code](https://github.com/RUCAIBox/R1-Searcher)]
-
-*Huatong Song, Jinhao Jiang, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen.*  Preprint'25
+[R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.05592) [Code 💻](https://github.com/RUCAIBox/R1-Searcher)  
+*Huatong Song, Jinhao Jiang, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen.* Preprint'25
 
 ### Search-R1
-
-[Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning.](https://arxiv.org/abs/2503.09516) [[code](https://github.com/PeterGriffinJin/Search-R1)]
-
-*Bowen Jin, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han.*  Preprint'25
+[Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)  [Code 💻](https://github.com/PeterGriffinJin/Search-R1)  
+*Bowen Jin, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han.* Preprint'25
 
 ### AutoCoA
-
-[Agent models: Internalizing Chain-of-Action Generation into Reasoning models.](https://arxiv.org/abs/2503.06580) [[code](https://github.com/ADaM-BJTU/AutoCoA)]
-
-*Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Xinyan Wen, Jitao Sang.*  Preprint'25
-
-### RAGEN
-
-RAGEN: Training Agents by Reinforcing Reasoning. [[code](https://github.com/ZihanWang314/RAGEN)]
-
-*Zihan Wang, Kangrui Wang, Qineng Wang, Pingyue Zhang, Linjie Li, Zhengyuan Yang, Kefan Yu, Minh Nhat Nguyen, Monica Lam, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li.* 
+[Agent models: Internalizing Chain-of-Action Generation into Reasoning models](https://arxiv.org/abs/2503.06580)  [Code 💻](https://github.com/ADaM-BJTU/AutoCoA)  
+*Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Xinyan Wen, Jitao Sang.* Preprint'25
 
 ### ReSearch
-
-ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning. [[code](https://github.com/Agent-RL/ReSearch)]
-
+ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning  [Code 💻](https://github.com/Agent-RL/ReSearch)  
 *Mingyang Chen, Tianpeng Li, Haoze Sun, Yijie Zhou, Chenzheng Zhu, Fan Yang, Zenan Zhou, Weipeng Chen.*
 
 ### DeepRetrieval
+[DeepRetrieval: Powerful Query Generation for Information Retrieval with Reinforcement Learning](https://arxiv.org/abs/2503.00223) [Code 💻](https://github.com/pat-jj/DeepRetrieval)  
+*Pengcheng Jiang.* Priprint'25
 
-[DeepRetrieval: Powerful Query Generation for Information Retrieval with Reinforcement Learning.](https://arxiv.org/abs/2503.00223) [[code](https://github.com/pat-jj/DeepRetrieval)]
+## 🌐 Open-Source Projects
 
-*Pengcheng Jiang.*  Priprint'25
+### RAGEN
+[RAGEN: Training Agents by Reinforcing Reasoning 💻](https://github.com/RAGEN-AI/RAGEN) ![RAGEN](https://img.shields.io/github/stars/RAGEN-AI/RAGEN)
+
+### Agent-R1
+[Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning 💻](https://github.com/0russwest0/Agent-R1) ![RAGEN](https://img.shields.io/github/stars/0russwest0/Agent-R1)
 
 ## 🎁 Resources
 
-> [!TIP]
->
-> *Tutorials and Prospects on Reinforcement Learning for Agents*
+> **Tip:** Tutorials and Prospects on Reinforcement Learning for Agents
 
 ### Reinforcement Learning for Agents
+Reinforcement Learning for Agents - Will Brown, ML Researcher at Morgan Stanley [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=JIsgyk0Paic)  
 
-Reinforcement Learning for Agents - Tutorial. [Youtube](https://www.youtube.com/watch?v=JIsgyk0Paic)
+### Actual LLM Agents are Coming
+Actual LLM agents are coming. They will be trained. [![Blog](https://img.shields.io/badge/Blog-Post-blue)](https://vintagedata.org/blog/posts/designing-llm-agents)  
 
-*Will Brown, ML Researcher at Morgan Stanley*
-
-### Actual LLM agents are Coming
-
-What are LLM Agents? [Vintage Data Blog](https://vintagedata.org/blog/posts/designing-llm-agents)
-
-From Anthropic: Systems where LLMs dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks.
 
 ### The Model is the Product
-
-What is the next cycle of AI development? Agents? Reasoners? Actual multimodality?
-
-It's time to call it: the model is the product. [Vintage Data Blog](https://vintagedata.org/blog/posts/model-is-the-product)
+What is the next cycle of AI development? Agents? Reasoners? Actual multimodality?  [![Blog](https://img.shields.io/badge/Blog-Post-blue)](https://vintagedata.org/blog/posts/model-is-the-product)
 
 ### Farewell to Agentic Workflow?
-
-Reasoning Model + Action Chain Learning = Agent Model  [Wechat Official Account](https://mp.weixin.qq.com/s/dDtFp4yaZuGYAvcP7qkD7w)
+Reasoning Model + Action Chain Learning = Agent Model [![Article](https://img.shields.io/badge/WeChat-Article-green)](https://mp.weixin.qq.com/s/dDtFp4yaZuGYAvcP7qkD7w)
 
 ### Chain-of-Action
-
-Chain-of-Action: From Agent Workflow to Agent Models  [WeChat Official Account](https://mp.weixin.qq.com/s/aAW7gD_5gQ_DyhRLCfMjDw)
-
+Chain-of-Action: From Agent Workflow to Agent Models [![Article](https://img.shields.io/badge/WeChat-Article-green)](https://mp.weixin.qq.com/s/aAW7gD_5gQ_DyhRLCfMjDw)
