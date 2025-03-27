@@ -37,11 +37,17 @@ ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning  [C
 
 ## 🌐 Open-Source Projects
 
+### OpenManus-RL
+[OpenManus-RL 💻](https://github.com/OpenManus/OpenManus-RL) ![OpenManus-RL](https://img.shields.io/github/stars/OpenManus/OpenManus-RL)
+
 ### RAGEN
 [RAGEN: Training Agents by Reinforcing Reasoning 💻](https://github.com/RAGEN-AI/RAGEN) ![RAGEN](https://img.shields.io/github/stars/RAGEN-AI/RAGEN)
 
 ### Agent-R1
-[Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning 💻](https://github.com/0russwest0/Agent-R1) ![RAGEN](https://img.shields.io/github/stars/0russwest0/Agent-R1)
+[Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning 💻](https://github.com/0russwest0/Agent-R1) ![Agent-R1](https://img.shields.io/github/stars/0russwest0/Agent-R1)
+
+### VAGEN
+[VAGEN: Training VLM Agents with Multi-Turn Reinforcement Learning 💻](https://github.com/RAGEN-AI/VAGEN) ![VAGEN](https://img.shields.io/github/stars/RAGEN-AI/VAGEN)
 
 ## 🎁 Resources
 
