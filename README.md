@@ -47,7 +47,7 @@ If you would like to train your own agent with reinforcement learning, take a lo
 
 > ⏰ Posting Date 2025.04
 
-[ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536)  [Code 💻](https://github.com/ReTool-RL/ReTool)
+[ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536)  [Code 💻](https://github.com/ReTool-RL/ReTool)  
 *Jiazhan Feng, Shijue Huang, Xingwei Qu, Ge Zhang, Yujia Qin, Baoquan Zhong, Chengquan Jiang, Jinxin Chi, Wanjun Zhong*
 
 ### RAGEN
@@ -61,35 +61,35 @@ If you would like to train your own agent with reinforcement learning, take a lo
 
 > ⏰ Posting Date 2025.04
 
-[OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/abs/2504.14870)
+[OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/abs/2504.14870)  
 *Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji*
 
 ### ToRL
 
 > ⏰ Posting Date 2025.03
 
-[ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383)  [Code 💻](https://github.com/GAIR-NLP/ToRL)
+[ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383)  [Code 💻](https://github.com/GAIR-NLP/ToRL)  
 *Xuefeng Li, Haoyang Zou, Pengfei Liu*
 
 ### MMSearch-R1
 
 > ⏰ Posting Date 2025.03
 
-[MMSearch-R1: Incentivizing LMMs to Search](https://kimingng.notion.site/MMSearch-R1-Incentivizing-LMMs-to-Search-1bcce992031880b2bc64fde13ef83e2a)  [Code 💻](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
+[MMSearch-R1: Incentivizing LMMs to Search](https://kimingng.notion.site/MMSearch-R1-Incentivizing-LMMs-to-Search-1bcce992031880b2bc64fde13ef83e2a)  [Code 💻](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)  
 *Jinming Wu, Zihao Deng, Wei Li, Yiding Liu, Bo You, Zejun Ma*
 
 ### ZeroSearch
 
 > ⏰ Posting Date 2025.05
 
-[ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/abs/2505.04588)  [Code 💻](https://github.com/Alibaba-NLP/ZeroSearch)
+[ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/abs/2505.04588)  [Code 💻](https://github.com/Alibaba-NLP/ZeroSearch)  
 *Hao Sun, Zile Qiao, Jiayan Guo, Xuanbo Fan, Yingyan Hou, Yong Jiang, Pengjun Xie, Yan Zhang, Fei Huang, Jingren Zhou*
 
 ### SkyRL-v0
 
 > ⏰ Posting Date 2025.05
 
-[SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning](https://novasky-ai.notion.site/skyrl-v0)  [Code 💻](https://github.com/NovaSky-AI/SkyRL)
+[SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning](https://novasky-ai.notion.site/skyrl-v0)  [Code 💻](https://github.com/NovaSky-AI/SkyRL)  
 *Shiyi Cao, Sumanth Hegde, Dacheng Li, Tyler Griggs, Shu Liu, Eric Tang, Jiayi Pan, Xingyao Wang, Akshay Malik, Kourosh Hakhamaneshi, Richard Liaw, Philipp Moritz, Matei Zaharia, Joseph E. Gonzalez, Ion Stoica*
 
 ### ARTIST
@@ -103,28 +103,28 @@ If you would like to train your own agent with reinforcement learning, take a lo
 
 > ⏰ Posting Date 2025.05
 
-[Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773v2)  [Code 💻](https://github.com/yyht/openrlhf_async_pipline)
+[Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773v2)  [Code 💻](https://github.com/yyht/openrlhf_async_pipline)  
 *Xinji Mai, Haotian Xu, Xing W, Weinong Wang, Yingying Zhang, Wenqiang Zhang*
 
 ### GiGPO
 
 > ⏰ Posting Date 2025.05
 
-[Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/abs/2505.10978)  [Code 💻](https://github.com/langfengQ/verl-agent)
+[Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/abs/2505.10978)  [Code 💻](https://github.com/langfengQ/verl-agent)  
 *Lang Feng, Zhenghai Xue, Tingcong Liu, Bo An*
 
 ### StepSearch
 
 > ⏰ Posting Date 2025.05
 
-[StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization](https://www.arxiv.org/abs/2505.15107)  [Code 💻](https://github.com/Zillwang/StepSearch)
+[StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization](https://www.arxiv.org/abs/2505.15107)  [Code 💻](https://github.com/Zillwang/StepSearch)  
 *Ziliang Wang, Xuhui Zheng, Kang An, Cijun Ouyang, Jialu Cai, Yuhang Wang, Yichao Wu*
 
 ### Multi-Turn-RL-Agent
 
 > ⏰ Posting Date 2025.05
 
-[Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment](https://arxiv.org/abs/2505.11821)  [Code 💻](https://github.com/SiliangZeng/Multi-Turn-RL-Agent)
+[Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment](https://arxiv.org/abs/2505.11821)  [Code 💻](https://github.com/SiliangZeng/Multi-Turn-RL-Agent)  
 *Siliang Zeng, Quan Wei, William Brown, Oana Frunza, Yuriy Nevmyvaka, Mingyi Hong*
 
 ## 🌐 Open-Source Projects
