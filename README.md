@@ -15,6 +15,12 @@ If you would like to train your own agent with reinforcement learning, take a lo
 
 > **Note:** The specific focus on end-to-end training (rather than single-step optimization)
 
+
+### ASearcher
+
+[2025] [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/pdf/2508.07976) [Code 💻](https://github.com/inclusionAI/ASearcher)
+*Jiaxuan Gao, Wei Fu, Minyang Xie, Shusheng Xu, Chuyi He, Zhiyu Mei, Banghua Zhu, Yi Wu*
+
 ### ZeroSearch
 
 [2505] [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/abs/2505.04588)  [Code 💻](https://github.com/Alibaba-NLP/ZeroSearch)  
