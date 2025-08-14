@@ -18,7 +18,7 @@ If you would like to train your own agent with reinforcement learning, take a lo
 
 ### ASearcher
 
-[2025] [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/pdf/2508.07976) [Code 💻](https://github.com/inclusionAI/ASearcher)
+[2508] [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/pdf/2508.07976) [Code 💻](https://github.com/inclusionAI/ASearcher)
 *Jiaxuan Gao, Wei Fu, Minyang Xie, Shusheng Xu, Chuyi He, Zhiyu Mei, Banghua Zhu, Yi Wu*
 
 ### ZeroSearch
