@@ -21,6 +21,11 @@ If you would like to train your own agent with reinforcement learning, take a lo
 [2508] [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/pdf/2508.07976) [Code 💻](https://github.com/inclusionAI/ASearcher)
 *Jiaxuan Gao, Wei Fu, Minyang Xie, Shusheng Xu, Chuyi He, Zhiyu Mei, Banghua Zhu, Yi Wu*
 
+### MemAgent
+
+[2507] [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259) [Code 💻](https://github.com/BytedTsinghua-SIA/MemAgent)
+*Hongli Yu, Tinghong Chen, Jiangtao Feng, Jiangjie Chen, Weinan Dai, Qiying Yu, Ya-Qin Zhang, Wei-Ying Ma, Jingjing Liu, Mingxuan Wang, Hao Zhou*
+
 ### ZeroSearch
 
 [2505] [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/abs/2505.04588)  [Code 💻](https://github.com/Alibaba-NLP/ZeroSearch)  
