@@ -15,6 +15,10 @@ If you would like to train your own agent with reinforcement learning, take a lo
 
 > **Note:** The specific focus on end-to-end training (rather than single-step optimization)
 
+### Verlog
+
+[2508] [Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success](https://arxiv.org/abs/2508.04280) [Code 💻](https://github.com/corl-team/VL-DAC)
+*George Bredis, Stanislav Dereka, Vyacheslav Sinii, Ruslan Rakhimov, Daniil Gavrilov*
 
 ### Verlog
 
